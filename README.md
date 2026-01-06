@@ -7,7 +7,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=efekrbasV&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=efekrbasV&label=Profile+Visits)
 
 	
 **About me**
