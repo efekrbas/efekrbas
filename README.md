@@ -6,6 +6,9 @@
 
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=efekrbasV&label=PROFILE+VIEWS)
+
 	
 **About me**
 
