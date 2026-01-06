@@ -6,8 +6,6 @@
 
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=KlanterV&label=Profile+Visits)
 	
 **About me**
 
