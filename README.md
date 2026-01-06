@@ -76,7 +76,7 @@
 
 <div align='center'>
 
-## <b>Don't put off the things you want to achieve, start now...✨</b>
+## <bBig things start in small rooms.</b>
 
 </div>
 <br>
