@@ -6,7 +6,7 @@
 
 
 <br>
-	$
+	
 **About me**
 
 <br>
