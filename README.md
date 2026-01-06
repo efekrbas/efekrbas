@@ -16,7 +16,6 @@
 - A passionate Self-taught Software Developer
 - Playing Counter Strike 2 at spare time
 - Currently learning Python
-- I'm currently open for a business opportunity and partnership
 
 <br><br>
 
