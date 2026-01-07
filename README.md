@@ -78,7 +78,7 @@
 
 <div align='center'>
 
-## <b>"Big things start in small rooms."</b>
+## <b>"Great things start in little rooms."</b>
 
 </div>
 <br>
