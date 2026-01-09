@@ -1,8 +1,5 @@
 <h1 align="center"><b>Hi, I'm Efe </h1>
-</a>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=100&&size=25&center=true&lines=Computer+Programming+Student%2C;CLI+Automation+Developer+🐧%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs..."></a>
-</p>
+
 
 
 <br>
@@ -14,7 +11,7 @@
 
 <br>
 
-- A passionate Self-taught Software Developer
+- A passionate Self-taught CLI &  Automation Developer
 - Playing Counter-Strike 2 at spare time
 - Currently learning Python
 
