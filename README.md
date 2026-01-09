@@ -11,7 +11,7 @@
 
 <br>
 
-- A passionate Self-taught CLI &  Automation Developer
+- A passionate Self-taught CLI & Automation Developer
 - Playing Counter-Strike 2 at spare time
 - Currently learning Python
 
