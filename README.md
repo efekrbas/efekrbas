@@ -14,9 +14,8 @@
 <br>
 
 - A passionate Self-taught CLI & Automation Developer
-- Playing Counter-Strike 2 at spare time
 - Currently building CLI tools and automation using Python and JavaScript.
-
+- Playing Counter-Strike 2 at spare time
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
