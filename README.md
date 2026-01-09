@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Efe </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hi!&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=CLI+%26+Automation+Developer+%F0%9F%90%A7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hi!&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=100&lines=CLI+%26+Automation+Developer+%F0%9F%90%A7" alt="Typing SVG" /></a>
 
 <br>
 
