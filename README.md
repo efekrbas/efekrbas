@@ -15,7 +15,7 @@
 <br>
 
 - A passionate Self-taught Software Developer
-- Playing Counter-Strike 2 at spare time
+- Playing Counter-Strike 2 and Leauge Of Legends at spare time
 - Currently learning Python
 
 <br><br>
