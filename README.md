@@ -6,6 +6,10 @@
 
 <br>
 
+ <a href="https://efekrbas.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+  </a>
+<br>
 ![](https://komarev.com/ghpvc/?username=efekrbasV&label=Profile+Visits)
 
 	
