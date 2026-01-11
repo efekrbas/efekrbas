@@ -4,8 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=25&pause=1000&center=true&vCenter=true&width=435&lines=CLI+%26+Automation+Developer+%F0%9F%90%A7" alt="Typing SVG" /></a>
 </p>
 
-<br>
-
 <div align="center">
  <a href="https://efekrbas.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
