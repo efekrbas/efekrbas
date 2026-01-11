@@ -4,11 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=25&pause=1000&center=true&vCenter=true&width=435&lines=CLI+%26+Automation+Developer+%F0%9F%90%A7" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
- <a href="https://efekrbas.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
-  </a>
-</div>
 <br>
   
 ![](https://komarev.com/ghpvc/?username=efekrbasV&label=Profile+Visits)
@@ -22,6 +17,14 @@
 - Experienced in developing CLI tools and automation using Python and JavaScript.
 - Strong interest in tooling, scripting, and workflow optimization.
 - Playing Counter-Strike 2 in my spare time.
+<br>
+
+<div align="center">
+ <a href="https://efekrbas.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+  </a>
+</div>
+<br>
 
 <br><br>
 
