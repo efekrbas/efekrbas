@@ -6,7 +6,7 @@
 
 <div align="center">
  <a href="https://efekrbas.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=3FC6FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=#000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
 </div>
 <br>
