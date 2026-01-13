@@ -91,10 +91,6 @@
 <br>
 
 <div align='center'>
-
-</div>
-
-<div align='center'>
 	<p align="center"><b>"Noot noot"</b></p>
 <img src=https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png width=150> <br><br>
 </div>
