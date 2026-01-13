@@ -92,7 +92,7 @@
 
 <div align='center'>
 
-## <b>"Great things start in little rooms."</b>
+## <b>"Knoot, knoot!"</b>
 
 </div>
 <br>
