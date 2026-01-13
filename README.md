@@ -98,6 +98,5 @@
 <br>
 
 <div align='center'>
-	<b>"Noot noot"</b>
 <img src=https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png width=150> <br><br>
 </div>
