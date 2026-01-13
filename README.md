@@ -92,11 +92,9 @@
 
 <div align='center'>
 
-## <b>"Knoot, knoot!"</b>
+## <b>"Noot noot"</b>
 
 </div>
-<br>
-<br>
 <br>
 <div align='center'>
 <img src=https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png width=150> <br><br>
