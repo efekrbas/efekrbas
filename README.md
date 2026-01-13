@@ -92,8 +92,6 @@
 
 <div align='center'>
 
-## <b>"Noot noot"</b>
-
 </div>
 <br>
 
