@@ -93,7 +93,6 @@
 <div align='center'>
 
 </div>
-<br>
 
 <div align='center'>
 	<p align="center"><b>"Noot noot"</b></p>
