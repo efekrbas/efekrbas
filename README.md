@@ -95,5 +95,5 @@
 
 <br>
 <div align="left>
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6678016" alt="TryHackMe Badge>
+<img src="https://tryhackme-badges.s3.amazonaws.com/efek.png"/>
 </div>
