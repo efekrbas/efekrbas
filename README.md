@@ -94,6 +94,6 @@
 </div>
 
 <br>
-<div align="left>
+<div align='left'>
 <img src="https://tryhackme-badges.s3.amazonaws.com/efek.png"/>
 </div>
