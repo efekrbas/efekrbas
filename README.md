@@ -88,13 +88,12 @@
 <br>
 <br>
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="padding-right:20px;">
       <b>"Noot noot"</b><br><br>
       <img src="https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png" width="150" />
     </td>
-
     <td align="left" valign="middle">
       <img src="https://tryhackme-badges.s3.amazonaws.com/efek.png" />
     </td>
