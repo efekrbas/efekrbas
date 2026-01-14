@@ -88,8 +88,8 @@
 <br>
 <br>
 
-<div align='center'>
+<div>
 	<p align="center"><b>"Noot noot"</b></p>
-<img src=https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png width=150> <br><br>
+<img src=https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png width=150 align='center'> <br><br>
 		<img src="https://tryhackme-badges.s3.amazonaws.com/efek.png" align='left'/>
 </div>
