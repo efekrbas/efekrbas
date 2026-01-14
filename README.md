@@ -95,5 +95,5 @@
 
 <br>
 <div align="left>
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6678016" style='border:none;'></img>	
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6678016" style='border:none;'></iframe>
 </div>
