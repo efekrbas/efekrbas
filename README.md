@@ -91,7 +91,6 @@
 <table cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td align="center" valign="top" style="padding-right:20px;">
-      <b>"Noot noot"</b><br><br>
       <img src="https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png" width="150" />
     </td>
     <td align="left" valign="middle">
