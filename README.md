@@ -88,7 +88,7 @@
 <br>
 <br>
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td align="center" valign="top" style="padding-right:20px;">
       <b>"Noot noot"</b><br><br>
