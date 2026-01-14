@@ -88,14 +88,15 @@
 <br>
 <br>
 
-<div>
-  <p align="center"><b>"Noot noot"</b></p>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <b>"Noot noot"</b><br><br>
+      <img src="https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png" width="150" />
+    </td>
 
-  <p align="center">
-    <img src="https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png" width="150" />
-  </p>
-
-  <p align="left">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/efek.png" />
-  </p>
-</div>
+    <td align="left" valign="middle">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/efek.png" />
+    </td>
+  </tr>
+</table>
