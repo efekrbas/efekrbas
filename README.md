@@ -11,7 +11,7 @@
 
 <br>
 
-- Passionate CLI & Automation Developer building practical tools that save time and reduce manual work.
+- Passionate Software Developer building practical tools that save time and reduce manual work.
 - Experienced in developing CLI tools and automation using Python and JavaScript.
 - Strong interest in tooling, scripting, and workflow optimization.
 - Playing Counter-Strike 2 in my spare time.
