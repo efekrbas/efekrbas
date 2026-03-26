@@ -91,17 +91,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-<table cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td align="center" valign="top" style="padding-right:20px;">
-      <img src="https://github.com/efekrbas/efekrbas/blob/main/images/tux-linux.png" width="150" />
-    </td>
-    <td align="left" valign="middle">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/efek.png" />
-    </td>
-  </tr>
-</table>
 
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/378501743366897675?bg=000000&idleMessage=%20&theme=dark)](https://discord.com/users/378501743366897675)
+</div>
