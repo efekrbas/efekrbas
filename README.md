@@ -7,7 +7,6 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=efekrbasV&label=Profile+Visits)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out-38BDF8?style=flat-square&logo=safari&logoColor=38BDF8)](https://efekrbs.vercel.app)
 
 	
 **About me**
@@ -22,9 +21,7 @@
 
 <div align="center">
  <a href="https://efekrbs.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=38BDF8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
-     <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=38BDF8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
- 
+    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
  </a>	
 </div>
 <br>
