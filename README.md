@@ -93,5 +93,7 @@
 <br>
 
 <div align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/378501743366897675?bg=000000&idleMessage=%20&theme=dark)](https://discord.com/users/378501743366897675)
+
 </div>
