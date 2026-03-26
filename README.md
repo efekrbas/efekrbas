@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
- <a href="https://efekrbs.vercel.app" target="_blank">
+ <a href="https://efekrbs.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
  </a>	
 </div>
