@@ -7,6 +7,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=efekrbasV&label=Profile+Visits)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out-38BDF8?style=flat-square&logo=safari&logoColor=38BDF8)](https://efekrbs.vercel.app)
 
 	
 **About me**
