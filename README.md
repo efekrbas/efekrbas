@@ -19,6 +19,15 @@
 - Playing Counter-Strike 2 in my spare time.
 <br>
 
+<div align="center">
+ <a href="https://efekrbs.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Visit%20My%20Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+  </a>
+</div>
+<br>
+<br>
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
