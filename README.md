@@ -96,6 +96,6 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/378501743366897675?bg=000000&idleMessage=%20)](https://discord.com/users/378501743366897675)
+[![Discord Presence](https://lanyard.cnrad.dev/api/378501743366897675?bg=000000&idleMessage=%20&hideActivity=true)](https://discord.com/users/378501743366897675)
 
 </div>
