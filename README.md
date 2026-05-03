@@ -13,7 +13,7 @@
 
 <br>
 
-- Passionate Software Developer building practical tools that save time and reduce manual work.
+- Passionate Full Stack Developer building practical tools that save time and reduce manual work.
 - Experienced in developing CLI tools and automation using Python and JavaScript.
 - Strong interest in tooling, scripting, and workflow optimization.
 <br>
